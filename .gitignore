@@ -1,2 +1,4 @@
 node_modules
 dist
+copy-to-obsidian.sh
+.DS_STORE

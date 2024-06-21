@@ -40,7 +40,7 @@ interface HoverEditor extends HoverPopover {
 
 
 // Global auto preview mode
-let autoPreview = true
+let autoPreview = false
 
 export class FolderMenu extends PopupMenu implements HoverParent {
 
